@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>메뉴선택</item>
+        <item>패디</item>
+        <item>네일</item>
+        <item>큐어</item>
+    </string-array>
+</resources>
