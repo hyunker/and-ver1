@@ -30,14 +30,14 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="20dp"
-        android:text="다른 문의 이메일: sky1298@naver.com"/>
+        android:text="다른 문의 이메일: slp51074@naver.com"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="20dp"
-        android:text="고객센터 문의 02-1251-2422"/>
+        android:text="고객센터 문의 010-4096-1004"/>
 
 
 </LinearLayout>

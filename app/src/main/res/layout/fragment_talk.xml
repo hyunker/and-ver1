@@ -20,7 +20,9 @@
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
+        android:layout_height="60dp"
+        android:text="채팅하기"
+        android:textColor="#ff6f61"
+        android:textStyle="bold" />
 
 </LinearLayout>

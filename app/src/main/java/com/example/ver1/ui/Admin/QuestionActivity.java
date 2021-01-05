@@ -39,16 +39,16 @@ public class QuestionActivity extends AppCompatActivity {
         questionList = new ArrayList<String>();
         questionanswerList = new HashMap<String, List<String>>();
 
-        questionList.add("오기환이 뭔가요? ");
+        questionList.add("이게뭐에요? ");
         questionList.add("김현중이 뭔가요? ");
 
         List<String> topic1 = new ArrayList<>();
-        topic1.add("안녕하세요 신명호 GM입니다 해당질문은 너무 역겨워서 대답을 해줄수가없네요 꺼지세요");
+        topic1.add("다해줄게");
 
 
 
         List<String> topic2 = new ArrayList<>();
-        topic2.add("안녕하세요 신명호 GM입니다 해당질문은 너무 역겨워서 대답을 해줄수가없네요 꺼지세요");
+        topic2.add("이거만든애요");
 
 
 

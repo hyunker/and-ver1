@@ -16,7 +16,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="45dp"
         android:orientation="horizontal"
         android:weightSum="1">
         <EditText
@@ -26,7 +26,8 @@
             android:layout_weight="1"/>
         <Button
             android:id="@+id/Button_send"
-            android:text="보내기"
+            android:text="전송"
+            android:textColor="#ff6f61"
             android:layout_width="80dp"
             android:layout_height="match_parent" />
     </LinearLayout>
